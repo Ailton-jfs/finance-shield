@@ -49,7 +49,7 @@ Arquitetura 100% client-side, sem dependências externas
 
 # Como Executar
 
-# Você pode rodar o projeto de forma simples:
+Você pode rodar o projeto de forma simples:
 
 # Opção 1: Abrir diretamente
 Abra o arquivo index.html no navegador
